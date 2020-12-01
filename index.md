@@ -8,7 +8,7 @@
       <p><b>地址：浙江万里学院</b></p>
     </td>
     <td width="25%">
-      <img src="zhoupeng.jpg" width="100%">      %zhoupeng.jpg    
+      <img src="zhoupeng.jpg" width="100%">         
     </td>
   </tr>
 </table>
