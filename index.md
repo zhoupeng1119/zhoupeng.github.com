@@ -8,7 +8,7 @@
       <p><b>地址：江苏省无锡市，邮编214200</b></p>
     </td>
     <td width="25%">
-      <img src="/zhoupeng.jpg" width="100%">      
+      <img src="/zhengjianzhao.jpg" width="100%">      
     </td>
   </tr>
 </table>
